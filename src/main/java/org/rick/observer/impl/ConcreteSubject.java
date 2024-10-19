@@ -28,7 +28,7 @@ public class ConcreteSubject implements Subject {
 
     @Override
     public void notifyObservers() {
-        for(var observer : this.observers){
+        for (var observer : this.observers) {
             observer.update();
         }
     }
