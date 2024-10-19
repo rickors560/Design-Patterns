@@ -11,7 +11,7 @@ public class Remote {
         this.command = command;
     }
 
-    public void action(){
+    public void action() {
         System.out.println("Preparing for the command to run..");
         command.execute();
         System.out.println("Command ran successfully....");
