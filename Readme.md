@@ -1,4 +1,4 @@
-# Design Patterns
+Design Patterns
 ---
  
 - **[Adapter](./src/main/java/org/rick/adapter)**
@@ -15,7 +15,7 @@
 - **[Strategy](./src/main/java/org/rick/strategy)**
 - **[Template](./src/main/java/org/rick/template)**
 
-# Other Useful resources for LLD
+Other Useful resources for LLD
 ---
 
 - **[Awesome-Low-Level-Design](https://github.com/ashishps1/awesome-low-level-design)**
