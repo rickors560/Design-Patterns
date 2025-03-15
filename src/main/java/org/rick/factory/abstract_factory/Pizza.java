@@ -1,4 +1,4 @@
-package org.rick.factory;
+package org.rick.factory.abstract_factory;
 
 public interface Pizza {
     String getName();

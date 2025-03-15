@@ -23,3 +23,4 @@ Other Useful resources for LLD
 - **[Interview Prep | Low Level Design Roadmap](https://medium.com/@sandeep.kumar.ece16/low-level-design-roadmap-7581688d96fa)**
 - **[LLD Playlist - Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvQVh7WsgZ8SurU1O2v_UM7)**
 - **[LLD Playlist - Shrayansh](https://www.youtube.com/playlist?list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW)**
+- **[Refactoring Guru - Design Patterns](https://refactoring.guru/design-patterns/java)**

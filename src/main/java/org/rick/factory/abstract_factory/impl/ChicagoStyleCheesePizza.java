@@ -1,9 +1,10 @@
-package org.rick.factory.impl;
+package org.rick.factory.abstract_factory.impl;
 
-import org.rick.factory.Pizza;
+import org.rick.factory.abstract_factory.Pizza;
 
 public class ChicagoStyleCheesePizza implements Pizza {
     public ChicagoStyleCheesePizza() {
+        System.out.println(getName());
     }
 
     @Override

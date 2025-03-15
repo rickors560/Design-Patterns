@@ -1,7 +1,7 @@
-package org.rick.factory;
+package org.rick.factory.factory_method;
 
-import org.rick.factory.impl.ChicagoPizzaStore;
-import org.rick.factory.impl.NyPizzaStore;
+import org.rick.factory.factory_method.impl.ChicagoPizzaStore;
+import org.rick.factory.factory_method.impl.NyPizzaStore;
 
 public class FactoryMethodPattern {
     public static void main(String[] args) {
@@ -10,6 +10,8 @@ public class FactoryMethodPattern {
 
         nyPizzaStore.orderPizza("cheese");
         chicagoPizzaStore.orderPizza("cheese");
+
+        System.out.println();
 
         nyPizzaStore.orderPizza("veggie");
         chicagoPizzaStore.orderPizza("veggie");
